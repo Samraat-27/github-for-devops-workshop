@@ -13,3 +13,7 @@ git push origin master
 
 git commit -m "commands file added"
 git pull origin master
+
+git branch
+git branch dev
+git switch dev
