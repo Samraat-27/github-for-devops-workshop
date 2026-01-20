@@ -8,3 +8,4 @@ git remote -v
 git remote set-url origin https://{personal access token}@github.com/Samraat-27/github-for-devops-workshop.git
 git remote -v
 git push origin master
+git commit -m "commands file added"
